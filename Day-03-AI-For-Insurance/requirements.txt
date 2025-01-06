@@ -1,0 +1,8 @@
+python-dotenv
+langchain-community==0.3.12
+langchain-core==0.3.27
+langchain-openai==0.2.8
+langchain_community 
+langchain==0.3.13
+langgraph==0.2.48
+langserve==0.0.27
