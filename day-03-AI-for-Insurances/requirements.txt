@@ -6,3 +6,5 @@ langchain_community
 langchain==0.3.13
 langgraph==0.2.48
 langserve==0.0.27
+faiss-cpu
+tiktoken
